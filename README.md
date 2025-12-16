@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Dhanunjan Reddy Raghuram
+# Hi there! I'm Dhanunjan Reddy Raghuram
 
 📞 813-934-1271  
 📧 raghuramdhanunjanreddy@gmail.com  
