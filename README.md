@@ -100,12 +100,3 @@ Jawaharlal Nehru Technological University — Hyderabad, India
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanunjanreddyraghuram&layout=compact)
 
 ---
-
-⭐ _Focused on building reliable, scalable data systems._
-```
-
----
-* 📸 Add **project screenshots**
-* 🏆 Add **certifications & metrics**
-
-Just tell me 🚀
