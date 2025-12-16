@@ -105,24 +105,6 @@ Jawaharlal Nehru Technological University — Hyderabad, India
 ```
 
 ---
-
-## ✅ Final checklist (do this now)
-
-1. Create repo **`dhanunjanreddyraghuram`** (same as username)
-2. Add `README.md`
-3. Paste the above
-4. Pin:
-
-   * MoviesNow
-   * dbt/Snowflake project
-   * Terraform/Airflow pipeline
-
----
-
-If you want next, I can:
-
-* 🔥 Optimize this **specifically for Amazon / Citi**
-* 🧾 Align **resume ↔ GitHub ↔ LinkedIn**
 * 📸 Add **project screenshots**
 * 🏆 Add **certifications & metrics**
 
